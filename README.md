@@ -1,3 +1,6 @@
+
+** this README file should be updated to show more details on how the program works and what it does
+
 # File Extension Organizer
 
 A short description of what this project does and who it's for
